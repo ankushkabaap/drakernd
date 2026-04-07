@@ -1,22 +1,22 @@
 {
     "uuids": {
-        "phone_id": "446e8ff6-31e4-4ed9-9f82-21a030ab6932",
-        "uuid": "3d9fe012-c4ac-40b1-966f-6c524d776cdc",
-        "client_session_id": "82ad592c-3474-4342-a456-4585b4395f13",
-        "advertising_id": "31117609-1839-45f4-92a4-0bca467e2932",
-        "android_device_id": "android-5d6218caea59df8f",
-        "request_id": "234637e7-eaab-4d52-886d-08604371caeb",
-        "tray_session_id": "5732e94e-fd43-46f3-bfd5-bbe2d00a5449"
+        "phone_id": "1ad4d1d1-0cf9-4341-bcb4-4510f427cd2b",
+        "uuid": "eda6d5a1-813a-47ea-881f-22bc09eb60f9",
+        "client_session_id": "cac91d26-e740-4dd2-9ada-630043275c93",
+        "advertising_id": "4cda6f0e-f2d1-4fdb-8578-fe96d0a14eaf",
+        "android_device_id": "android-8dcc514ea62a5bcb",
+        "request_id": "34591cfd-e3c2-4356-8fd6-e67e91b3778a",
+        "tray_session_id": "1713ca66-0521-4be8-93f7-e89d073855f4"
     },
-    "mid": "adKWOQABAAF8zKRlfVlRaOZsiFJS",
+    "mid": "adStsgABAAEL1GnuC6GDaWQ_Uwx_",
     "ig_u_rur": null,
     "ig_www_claim": null,
     "authorization_data": {
         "ds_user_id": "39563363951",
-        "sessionid": "39563363951%3AFPNhdy5CQd04Cp%3A1%3AAYjH-YiW_-KuN-DioDH2JGogbt6Dr0a4jsgfGfpFEQ"
+        "sessionid": "39563363951%3Ahs6NZWdcuPQH8g%3A13%3AAYgbyGLPA6HIJSV54s8KDZMGeFSpXgzoV2a0hlVEtw"
     },
     "cookies": {},
-    "last_login": 1775408708.2530274,
+    "last_login": 1775545785.8583739,
     "device_settings": {
         "android_version": 26,
         "android_release": "8.0.0",
@@ -30,7 +30,7 @@
         "version_code": "374010953",
         "bloks_versioning_id": "8ccf54aad76788a6ca03ddfc33afcdcf692f2f5a3ba814ea73d5facba7fa2c2d"
     },
-    "user_agent": "Instagram 364.0.0.35.86 Android (26/8.0.0; 480dpi; 1080x1920; OnePlus; 6T Dev; devitron; qcom; en_US; 374010953)",
+    "user_agent": "Instagram 312.0.0.22.114 Android",
     "country": "US",
     "country_code": 1,
     "locale": "en_US",

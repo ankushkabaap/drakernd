@@ -1,22 +1,22 @@
 {
     "uuids": {
-        "phone_id": "39947b63-fbe0-401c-b2c6-37b0eb148fdb",
-        "uuid": "7d52b832-7357-42b8-a725-411472310ca2",
-        "client_session_id": "66a90bd2-6b46-4abe-9197-ef5ea274f7a5",
-        "advertising_id": "5d97b87a-1b71-4e4f-843a-be59568f2d58",
-        "android_device_id": "android-fb2e8c66e0a0f31a",
-        "request_id": "aa1c7e3b-126c-4707-8f38-5285bc8270f8",
-        "tray_session_id": "e0ea598c-5e76-4cff-91cd-9ca4820f2856"
+        "phone_id": "e1373f98-9e1c-445a-aa89-ad664ade9827",
+        "uuid": "86450cb2-de4b-45a2-ad2a-9f5580033a65",
+        "client_session_id": "4976fb02-8420-4c81-a253-a040a8dc4ead",
+        "advertising_id": "9128a424-b15e-4bb5-81a6-8365535ab4e0",
+        "android_device_id": "android-e4f3a25f01a7a3b5",
+        "request_id": "d2ac3813-5353-4070-8110-00d2b69e5e8a",
+        "tray_session_id": "b68ebcf6-179d-4430-9a36-0a8e60e4c9c9"
     },
-    "mid": "adKSrgABAAFRmD6-Mke7vOnblkmm",
+    "mid": "adStqQABAAFUfT43JJRC006De06v",
     "ig_u_rur": null,
     "ig_www_claim": null,
     "authorization_data": {
         "ds_user_id": "37573166170",
-        "sessionid": "37573166170%3AuNzLQ1WAfd5ffw%3A0%3AAYgKBbrGhHMNRZ6EIytJDkrm1BNwUNurCGYtN3E93A"
+        "sessionid": "37573166170%3AvU6G5Vw8LXpmuI%3A3%3AAYhDI4yDwrE2NZfa4Cd3Nvp3xerJ4ZUhIZuMmTkhgw"
     },
     "cookies": {},
-    "last_login": 1775407799.888822,
+    "last_login": 1775545777.9052136,
     "device_settings": {
         "android_version": 26,
         "android_release": "8.0.0",
@@ -26,11 +26,11 @@
         "device": "devitron",
         "model": "6T Dev",
         "cpu": "qcom",
-        "app_version": "385.0.0.47.74",
-        "version_code": "378906843",
-        "bloks_versioning_id": "a8973d49a9cc6a6f65a4997c10216ce2a06f65a517010e64885e92029bb19221"
+        "app_version": "364.0.0.35.86",
+        "version_code": "374010953",
+        "bloks_versioning_id": "8ccf54aad76788a6ca03ddfc33afcdcf692f2f5a3ba814ea73d5facba7fa2c2d"
     },
-    "user_agent": "Instagram 385.0.0.47.74 Android (26/8.0.0; 480dpi; 1080x1920; OnePlus; 6T Dev; devitron; qcom; en_US; 378906843)",
+    "user_agent": "Instagram 312.0.0.22.114 Android",
     "country": "US",
     "country_code": 1,
     "locale": "en_US",
